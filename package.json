@@ -24,7 +24,7 @@
   "author": "zernonia",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.6.0",
+    "@actions/core": "^1.10.0",
     "@supabase/supabase-js": "^1.35.3"
   },
   "devDependencies": {
